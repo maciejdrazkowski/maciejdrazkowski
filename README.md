@@ -14,7 +14,9 @@ I build software for my own business and contribute to open source.
 
 ## AI coding activity
 
-**139.89B tokens** recorded across Claude Code and Codex from June through November 20, 2026. The total includes cached input. [Measured with Tokscale](https://github.com/junhoyeo/tokscale)
+[![Tokscale usage for Claude Code and Codex](https://tokscale.ai/api/embed/maciejdrazkowski/svg?template=minimal&color=teal&graph=1)](https://tokscale.ai/u/maciejdrazkowski)
+
+*Token totals include cached input. Costs are API estimates.*
 
 <!-- TOKSCALE:END -->
 
