@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 242" width="900" height="242" role="img" aria-labelledby="title desc">
+<title id="title">Maciej Drążkowski — Construction entrepreneur and open-source developer</title>
+<desc id="desc">An illustrated road viaduct on a dark green survey drawing. An amber signal travels across the deck.</desc>
+<defs>
+  <linearGradient id="paper" x2="1" y2="0" gradientUnits="objectBoundingBox"><stop stop-color="#102c2d"/><stop offset="1" stop-color="#183e3c"/></linearGradient>
+  <linearGradient id="veil"><stop offset="0" stop-color="white" stop-opacity="0"/><stop offset=".58" stop-color="white" stop-opacity=".15"/><stop offset="1" stop-color="white"/></linearGradient>
+  <mask id="fade"><rect width="900" height="242" fill="url(#veil)"/></mask>
+  <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><path d="M23 0H0V23" fill="none" stroke="#85aea0" stroke-opacity=".29" stroke-width=".8"/></pattern>
+  <clipPath id="panel"><rect width="900" height="242" rx="17"/></clipPath>
+  <style>
+    .roleA {animation: roleA 10s infinite;} .roleB {opacity:0;animation:roleB 10s infinite;}
+    @keyframes roleA {0%,43%,100%{opacity:1} 49%,94%{opacity:0}}
+    @keyframes roleB {0%,43%,100%{opacity:0} 49%,94%{opacity:1}}
+    .signal {stroke-dasharray:5 360;animation:signal 6s linear infinite}
+    @keyframes signal {from{stroke-dashoffset:5}to{stroke-dashoffset:-360}}
+    @media(prefers-reduced-motion: reduce){.roleA,.roleB,.signal{animation:none}.roleB,.signal{display:none}}
+  </style>
+</defs>
+<g clip-path="url(#panel)">
+  <rect width="900" height="242" fill="url(#paper)"/>
+  <rect width="900" height="242" fill="url(#grid)" mask="url(#fade)"/>
+  <g transform="translate(-14 58)">
+    <g fill="none" stroke="#508478" stroke-width="1" opacity=".56">
+      <path d="M455 165C518 142 534 143 569 154S640 179 672 175 712 128 762 122 828 116 939 69"/>
+      <path d="M448 174C525 146 535 152 566 161S640 188 679 183 719 137 763 130 842 123 940 78"/>
+      <path d="M454 180C524 157 533 157 566 168S640 196 684 191 725 146 768 138 842 132 940 85"/>
+      <path d="M650 -17C683 -15 717 11 738 20S796 34 835 9 890 -5 939 -11"/>
+      <path d="M647 -24C689 -22 722 4 744 13S800 25 835 2 890 -13 939 -18"/>
+    </g>
+    <polygon points="565.2,110.4 570.7,108.1 570.7,146.1 565.2,148.4" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="570.7,108.1 576.9,110.7 576.9,148.7 570.7,146.1" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="565.2,151 579.2,150.3 581.6,144.7" fill="none" stroke="#47817a"/>
+<polygon points="588.6,120 594.1,117.7 594.1,155.7 588.6,158" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="594.1,117.7 600.3,120.3 600.3,158.3 594.1,155.7" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="588.6,160.6 602.6,159.9 605,154.3" fill="none" stroke="#47817a"/>
+<polygon points="632.3,82 637.7,79.7 637.7,117.7 632.3,120" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="637.7,79.7 644,82.3 644,120.3 637.7,117.7" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="632.3,122.6 646.3,121.9 648.7,116.3" fill="none" stroke="#47817a"/>
+<polygon points="655.7,91.6 661.1,89.3 661.1,127.3 655.7,129.6" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="661.1,89.3 667.4,91.9 667.4,129.9 661.1,127.3" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="655.7,132.2 669.7,131.5 672.1,125.9" fill="none" stroke="#47817a"/>
+<polygon points="699.4,53.6 704.8,51.3 704.8,89.3 699.4,91.6" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="704.8,51.3 711.1,53.9 711.1,91.9 704.8,89.3" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="699.4,94.2 713.4,93.5 715.7,88" fill="none" stroke="#47817a"/>
+<polygon points="722.8,63.2 728.2,60.9 728.2,98.9 722.8,101.2" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="728.2,60.9 734.5,63.5 734.5,101.5 728.2,98.9" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="722.8,103.8 736.8,103.1 739.1,97.6" fill="none" stroke="#47817a"/>
+<polygon points="766.4,25.3 771.9,23 771.9,61 766.4,63.3" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="771.9,23 778.1,25.5 778.1,63.5 771.9,61" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="766.4,65.9 780.5,65.1 782.8,59.6" fill="none" stroke="#47817a"/>
+<polygon points="789.8,34.9 795.3,32.6 795.3,70.6 789.8,72.9" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="795.3,32.6 801.5,35.1 801.5,73.1 795.3,70.6" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="789.8,75.5 803.9,74.7 806.2,69.2" fill="none" stroke="#47817a"/>
+<polygon points="833.5,-3.1 839,-5.4 839,32.6 833.5,34.9" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="839,-5.4 845.2,-2.9 845.2,35.1 839,32.6" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="833.5,37.5 847.6,36.7 849.9,31.2" fill="none" stroke="#47817a"/>
+<polygon points="856.9,6.5 862.4,4.2 862.4,42.2 856.9,44.5" fill="#346360" stroke="#68928b" stroke-width="0.8"/>
+<polygon points="862.4,4.2 868.6,6.7 868.6,44.7 862.4,42.2" fill="#254e4d" stroke="#68928b" stroke-width="0.8"/>
+<polyline points="856.9,47.1 871,46.3 873.3,40.8" fill="none" stroke="#47817a"/>
+<polygon points="534,111 861.6,-27.6 895.1,-13.8 567.5,124.8" fill="#294d4d" stroke="#a0c2ad" stroke-width="1.4"/>
+<polygon points="567.5,124.8 895.1,-13.8 895.1,-5.8 567.5,132.8" fill="#396260" stroke="#9bc3ad" stroke-width="1"/>
+<polygon points="534,111 567.5,124.8 567.5,132.8 534,119" fill="#172f34" stroke="#749d92"/>
+<polyline points="538.7,112.9 866.3,-25.7" fill="none" stroke="#ebb78f" stroke-width="1.5"/>
+<polyline points="562.1,122.5 889.7,-16.1" fill="none" stroke="#f1be91" stroke-width="1.5"/>
+<polyline points="550.4,117.7 878,-20.9" fill="none" stroke="#e8dbbd" stroke-width="1.4" stroke-dasharray="8 8"/>
+    <polyline points="553.5,119 881.1,-19.6" fill="none" class="signal" stroke="#ffad68" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <circle cx="44" cy="44" r="4" fill="#eba976"/>
+    <text x="58" y="49" fill="#b8d0bd" font-family="Consolas,monospace" font-size="15" letter-spacing="2.2">POLAND</text>
+    <text x="37" y="125" fill="#f6f2df" font-size="62" font-weight="650" letter-spacing="-2.8">Maciej Drążkowski</text>
+    <rect x="41" y="153" width="26" height="2" fill="#e8ac7a"/>
+    <g font-size="25" fill="#e9b58e" font-weight="500"><text class="roleA" x="80" y="162">Construction entrepreneur</text><text class="roleB" x="80" y="162">Open-source developer</text></g>
+  </g>
+</g>
+</svg>
