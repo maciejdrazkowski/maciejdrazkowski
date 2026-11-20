@@ -2,9 +2,7 @@
   <img src="./assets/profile-header.svg" width="900" alt="Maciej Drążkowski · Construction entrepreneur in Poland · Open-source developer">
 </p>
 
-I’m a construction entrepreneur in Poland. I work on public tenders and have delivered projects as a general contractor, from bid to handover.
-
-I build software for my own business and contribute to open source. I’m especially interested in how AI coding agents work together.
+I build software for my own business and contribute to open source.
 
 <p>
   <img src="./assets/claude-code.svg" alt="Claude Code" height="34">
